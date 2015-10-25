@@ -28,7 +28,7 @@ img {
 }
 
 .show-mobile {
-	display: none;
+	display: inline-block;
 }
 
 @media (max-width: 600px) {
